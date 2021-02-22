@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<personas xsi:noNamespaceSchemaLocation="schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <persona id="4" clave="string">
+    <datos provincia="Pontevedra">
+      <nombre>clara</nombre>
+      <apellidos>Rodriguez</apellidos>
+    </datos>
+    <categoria>123</categoria>
+  </persona>
+  <persona id="8" clave="string">
+    <datos provincia="Pontevedra">
+      <nombre>María</nombre>
+      <apellidos>Queipo</apellidos>
+    </datos>
+    <categoria>456</categoria>
+  </persona>
+</personas>
